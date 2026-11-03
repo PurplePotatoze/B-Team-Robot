@@ -9,7 +9,10 @@ This repo contains the CAD files, design, and C++ code for our VEX V5 robotics t
 - Preset lift positions for picking up and dropping things
 - Autonomous and driver control code
 - Competition template setup
+- 16-inch long drivetrain with a total of six 3.25" omnidirectional wheels powered by four 11V Motors 
 
 ## Documentation
 
 Click the icon at the top to view our documentation.
+
+
